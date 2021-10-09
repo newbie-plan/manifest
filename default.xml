@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-	<remote fetch="git@github.com:newbie-plan/" name="origin"/>
+	<remote fetch="ssh://git@github.com/newbie-plan" name="origin"/>
 
 	<project name="vmix.git" path="vmixlocal" remote="origin" revision="main" upstream="main"/>
 	<project name="amix.git" path="amixlocal" remote="origin" revision="main" upstream="main"/>
